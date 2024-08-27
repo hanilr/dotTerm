@@ -10,19 +10,15 @@ Just you need to plug a microcontroller or a general card with serial port to yo
 
 ## Images
 
-![dotTerm_gif](img/app.gif)
+![dotTerm_png](img/app.png)
 
 ---
 
-![dotTerm_](img/app.png)
+![dotTerm_gif](img/app.gif)
 
 ## Download
 
 Go to [releases](https://github.com/hanilr/dotTerm/releases) and download.
-
-or
-
-` git clone https://github.com/hanilr/dotTerm.git `
 
 ## License
 
