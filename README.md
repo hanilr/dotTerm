@@ -10,11 +10,11 @@ Just you need to plug a microcontroller or a general card with serial port to yo
 
 ## Images
 
-![dotTerm_png](img/app.png)
+<img src="img/app.png" width="480">
 
 ---
 
-![dotTerm_gif](img/app.gif)
+<img src="img/app.gif" width="480">
 
 ## Download
 
